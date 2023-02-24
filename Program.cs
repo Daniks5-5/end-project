@@ -1,10 +1,9 @@
 ﻿Console.WriteLine("массив : ");
 string[] array={"car","Monday","dogs","2","344"};
-Console.WriteLine(array.Length);
 int i=0;
 while(i<array.Length)
 {
-Console.WriteLine(array[i].Length);
+int index=array[i].Length;
+if(index<=3) Console.WriteLine(array[i]);
 i++; 
-Console.WriteLine(i);
 }
