@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\итоговое задание\first\bin\Debug\net6.0\first.exe
+C:\Users\danil\Desktop\итоговое задание\first\bin\Debug\net6.0\first.deps.json
+C:\Users\danil\Desktop\итоговое задание\first\bin\Debug\net6.0\first.runtimeconfig.json
+C:\Users\danil\Desktop\итоговое задание\first\bin\Debug\net6.0\first.dll
+C:\Users\danil\Desktop\итоговое задание\first\bin\Debug\net6.0\first.pdb
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.dll
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\refint\first.dll
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.pdb
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+C:\Users\danil\Desktop\итоговое задание\first\obj\Debug\net6.0\ref\first.dll
